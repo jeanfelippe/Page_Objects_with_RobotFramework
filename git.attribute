@@ -3,3 +3,4 @@
 *.html linguist-vendored=false
 *.html linguist-vendored
 *.html linguist-generated
+*.html linguist-documentation
