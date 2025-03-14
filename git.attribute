@@ -2,3 +2,4 @@
 *.robot linguist-detectable=true
 *.html linguist-vendored=false
 *.html linguist-vendored
+*.html linguist-generated
