@@ -13,4 +13,3 @@ User is logged in
 
     Wait For Elements State    ${element}    visible    5
     Get Text                   ${element}    equal      ${email}
-
