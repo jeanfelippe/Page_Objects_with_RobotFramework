@@ -1,6 +1,8 @@
 # Referência
 Stack base baseada no curso universo Robot Framework de Fernando Papito
 
+# Lib utilizada para Browser nesse projeto é a lib Browser do Playwright e não do Selenium
+
 # Instalação
 executar npm run dev dentro da pasta /robot-qax/smartbit/api
 
